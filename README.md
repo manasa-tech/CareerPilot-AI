@@ -1,36 +1,160 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 CareerPilot AI
 
-## Getting Started
+CareerPilot AI is an AI-powered career guidance platform designed to help students and job seekers make informed career decisions, build industry-relevant skills, and prepare for their dream jobs.
 
-First, run the development server:
+## 🌟 Problem Statement
+
+Many students struggle with:
+
+* Choosing the right career path
+* Understanding industry requirements
+* Identifying skill gaps
+* Finding personalized learning resources
+* Preparing for interviews and placements
+
+CareerPilot AI bridges this gap using Artificial Intelligence to provide personalized career guidance and recommendations.
+
+---
+
+## 🎯 Features
+
+### 🤖 AI Career Guidance
+
+* Personalized career recommendations
+* Career roadmap generation
+* Skill gap analysis
+* Domain-specific guidance
+
+### 📚 Learning Recommendations
+
+* Curated courses and resources
+* Technology roadmap suggestions
+* Industry-relevant learning paths
+
+### 📄 Resume Analysis
+
+* Resume evaluation
+* Improvement suggestions
+* ATS-friendly recommendations
+
+### 💼 Job & Internship Support
+
+* Role recommendations
+* Placement preparation guidance
+* Industry insights
+
+### 🎤 Interview Preparation
+
+* Mock interview questions
+* Technical interview preparation
+* HR interview guidance
+
+### 📊 Career Dashboard
+
+* Track career goals
+* Monitor skill progress
+* Personalized recommendations
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* Next.js
+* React.js
+* TypeScript
+* CSS
+
+### Backend
+
+* Node.js
+* REST APIs
+
+### AI Integration
+
+* OpenAI / Gemini APIs
+* Machine Learning Models
+
+### Deployment
+
+* Vercel
+* GitHub
+
+---
+
+## 📂 Project Structure
+
+```bash
+CareerPilot-AI/
+│
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── public/
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/manasa-tech/CareerPilot-AI.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd CareerPilot-AI
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Future Enhancements
 
-To learn more about Next.js, take a look at the following resources:
+* AI-powered mock interviews
+* Resume builder
+* Career prediction engine
+* Internship recommendation system
+* Community mentorship platform
+* Real-time job matching
+* AI career chatbot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👩‍💻 Team
 
-## Deploy on Vercel
+**CareerPilot AI Team**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Building the future of AI-powered career guidance and student success.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📜 License
+
+This project is developed for educational, research, and innovation purposes.
